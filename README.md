@@ -73,8 +73,6 @@ PRISM/
 │   └── main.py                 # End-to-end pipeline driver
 ├── demo/
 │   └── prism_demo.html         # Interactive frontend demo
-├── notebooks/
-│   └── exploration.ipynb       # Ad-hoc analysis
 ├── data/                       # MovieLens 100K (not committed)
 ├── requirements.txt
 ├── LICENSE
