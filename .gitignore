@@ -1,0 +1,64 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Data and model artefacts
+data/
+runs/
+models/
+*.pt
+*.pth
+*.pkl
+*.joblib
+*.npz
+*.npy
+*.h5
+*.ckpt
+
+# MovieLens
+ml-100k/
+ml-1m/
+ml-10m/
+
+# Embeddings cache
+embeddings/
+.cache/
+*_cache/
+
+# Logs
+logs/
+*.log
+wandb/
+mlruns/
+tensorboard/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Notebooks
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# Environment
+.env
+.env.local
+
+# OS
+Thumbs.db
+desktop.ini
